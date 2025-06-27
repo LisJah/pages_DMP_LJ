@@ -45,7 +45,7 @@ Please consult the chapters in e.g. the [RDMkit for life sciences, the CESSDA Da
 _Supplementary info: Almost all computer systems will provide some system metadata embedded in files, and provide info on creation date and who has editor or read-only access to the file, for example. Most systems will also provide users with possibilities of adding user metadata that can be embedded in files, such as descriptive tags._
 
 
-### Do suitable metadata standards exist for the data?
+### Do suitable metadata standards/schemas exist for the data?
 When planning and embarking on your project, you should familiarize yourself with, and choose, a suitable metadata standard if one exists. Many research fields have agreed upon, established and adopted a metadata standard suitable for discipline-specific needs. If available, applying a domain/discipline-specific standard ensures that all necessary information facilitating data use and reuse is included. In addition to domain-specific standards, domain-agnostic standards also exist. The "Minimal Information Standard" describes a defined minimal set of metadata. A metadata standard can also include optional values.
 
 Most research data repositories will implement specific standards. That is why the use of a particular archive often will lead to the use of a particular metadata standard.\
